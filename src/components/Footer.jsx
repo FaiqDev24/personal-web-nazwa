@@ -29,8 +29,7 @@ export default function Footer() {
               Nazwa<span className="text-[#e91e8c]">.</span>
             </a>
             <p className="text-white/60 text-sm leading-relaxed mt-3 mb-5">
-              Crafting beautiful digital experiences with passion and precision.
-              Available for freelance & full-time opportunities.
+              Siswi SMK Wikrama Bogor yang tertarik berkarier di bidang Admin, Sekretaris, dan Receptionist. Terbuka untuk peluang magang & kerja.
             </p>
             <div className="flex gap-3">
               {socials.map(({ label, href, icon }) => (
